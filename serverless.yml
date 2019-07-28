@@ -12,7 +12,7 @@
 # Happy Coding!
 
 tenant: vasanthravindran # NOTE: change this to your Serverless Enterprise tenant name
-app: adonisemail # NOTE: change this to your Serverless Enterprise app name
+app: adonissubscribe # NOTE: change this to your Serverless Enterprise app name
 service: test-service
 
 # You can pin your service to only deploy with a specific Serverless version
